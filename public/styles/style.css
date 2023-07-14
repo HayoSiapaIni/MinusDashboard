@@ -1,0 +1,27 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto&display=swap");
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+#title-navbar {
+    color: #468b38;
+}
+
+div.row h7 {
+    color: #8a8a8a;
+}
+
+div.col-lg-6 col-12 text-center py-3 placeholder {
+    font-size: 1-rem;
+}
+
+#opsi_text {
+    font-size: 12px;
+}
+
+#valnamatoko {
+    text-decoration: none;
+    color: black;
+}
